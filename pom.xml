@@ -15,7 +15,7 @@
 		<jackson.version>1.8.7</jackson.version>
 		<wiquery.version>1.5.3</wiquery.version>
 		<wqplot.version>0.2-SNAPSHOT</wqplot.version>
-		<spring.version>3.0.6.RELEASE</spring.version>
+		<spring.version>4.3.29.RELEASE</spring.version>
 	</properties>
 	<repositories>
 		<repository>
